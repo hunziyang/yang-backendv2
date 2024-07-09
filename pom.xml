@@ -17,6 +17,7 @@
 
     <modules>
         <module>core</module>
+        <module>parent</module>
     </modules>
 
     <!-- 阿里云maven仓库 -->
